@@ -2,7 +2,7 @@ export const SITE = {
   website: "https://milkor.dev", // tu dominio real
   author: "Milko Rodríguez",
   profile: "https://milkor.dev/", // tu página personal si es otra
-  desc: "Exploring AI, biology & philosophy. Bridging machine learning with science and meaning.",
+  desc: "Exploring AI, biology & epistemology. Bridging machine learning with science and meaning.",
   title: "@MilkoRodriguez",
   ogImage: "/assets/milko-avatar.jpg", // asegúrate que esté en /public/assets/
   lightAndDarkMode: true,
