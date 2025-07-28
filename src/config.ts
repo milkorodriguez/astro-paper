@@ -1,23 +1,70 @@
 export const SITE = {
-  website: "https://astro-paper.pages.dev/", // replace this with your deployed domain
-  author: "Sat Naing",
-  profile: "https://satnaing.dev/",
-  desc: "A minimal, responsive and SEO-friendly Astro blog theme.",
-  title: "AstroPaper",
-  ogImage: "astropaper-og.jpg",
+  website: "https://milkor.dev", // tu dominio real
+  author: "Milko Rodríguez",
+  profile: "https://milkor.dev/", // tu página personal si es otra
+  desc: "Exploring AI, biology & philosophy. Bridging machine learning with science and meaning.",
+  title: "@MilkoRodriguez",
+  ogImage: "/assets/milko-avatar.jpg", // asegúrate que esté en /public/assets/
   lightAndDarkMode: true,
   postPerIndex: 4,
   postPerPage: 4,
-  scheduledPostMargin: 15 * 60 * 1000, // 15 minutes
+  scheduledPostMargin: 15 * 60 * 1000, // 15 minutos
   showArchives: true,
-  showBackButton: true, // show back button in post detail
+  showBackButton: true,
   editPost: {
-    enabled: true,
+    enabled: false,
     text: "Edit page",
-    url: "https://github.com/satnaing/astro-paper/edit/main/",
+    url: "https://github.com/satnaing/astro-paper/edit/main/", // actualízalo si usas GitHub
   },
   dynamicOgImage: true,
-  dir: "ltr", // "rtl" | "auto"
-  lang: "en", // html lang code. Set this empty and default will be "en"
-  timezone: "Asia/Bangkok", // Default global timezone (IANA format) https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+  dir: "ltr",
+  lang: "en",
+  timezone: "America/Lima",
 } as const;
+
+export const SOCIALS = [
+  {
+    name: 'GitHub',
+    icon: 'mdi:github',
+    link: 'https://github.com/milkreator',
+  },
+  {
+    name: 'LinkedIn',
+    icon: 'mdi:linkedin',
+    link: 'https://linkedin.com/in/milkorodriguez',
+  },
+  {
+    name: 'Mail',
+    icon: 'mdi:email',
+    link: 'mailto:milko.cra@gmail.com',
+  },
+  {
+    name: 'X',
+    icon: 'mdi:twitter',
+    link: 'https://x.com/Milko_Rodriguez',
+  },
+  {
+    name: 'Blog',
+    icon: 'mdi:book-open-page-variant',
+    link: 'https://milkor.dev',
+  },
+];
+
+export const TAGS = [
+  "Bioinformatics",
+  "Genomics",
+  "Proteomics",
+  "Systems Biology",
+  "Protein Structure Prediction",
+  "Deep Learning",
+  "ML for Science",
+  "AlphaFold",
+  "Computational Biology",
+  "Neuroscience",
+  "Foundation Models",
+  "Epistemology",
+  "Philosophy of Science",
+  "AI & Biology",
+  "Tutorials",
+  "Research Notes"
+];
