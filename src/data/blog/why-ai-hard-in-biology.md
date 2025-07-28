@@ -4,7 +4,7 @@ description: "Exploring the 5 key challenges of applying AI to the life sciences
 pubDatetime: 2025-07-27T10:00:00.000Z
 author: "Milko Rodríguez"
 tags: ["AI", "Biology", "Epistemology", "ML"]
-cover: "/assets/image_post1.jpg"
+cover: "@/assets/image_post1.jpg"
 ---
 
 Artificial intelligence is already transforming disciplines like physics, economics, and linguistics. So why does applying AI to biology seem more difficult, slower, and at times more frustrating?
