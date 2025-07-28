@@ -1,4 +1,12 @@
 ---
+title: "Read a CSV File in Simple Form"
+pubDatetime: 2020-01-27T00:00:00Z
+description: "Simple ways to read and display CSV data using Python."
+author: "Milko"
+tags: ['csv', 'read', 'python']
+---
+
+---
 layout: post
 title: Read a CSV file in simple form
 date: 2020-01-27 14:43:00
@@ -48,4 +56,3 @@ f.close () # (7)
 * (6) Use the print function to display line information on the screen.
 * (7)Close the file opened in step 3.
 ```
-

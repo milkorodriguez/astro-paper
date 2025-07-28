@@ -1,4 +1,12 @@
 ---
+title: "CSV Format"
+pubDatetime: 2019-12-12T00:00:00Z
+description: "A quick guide on understanding and working with CSV formats."
+author: "Milko"
+tags: ['csv', 'data', 'format']
+---
+
+---
 layout: post
 title: CSV format
 date: 2019-12-12 09:30:00

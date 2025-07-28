@@ -1,4 +1,12 @@
 ---
+title: "Terminal vs Console vs CLI vs Shell"
+pubDatetime: 2020-06-05T00:00:00Z
+description: "Clarifying the differences between terminal, console, CLI, and shell."
+author: "Milko"
+tags: ['terminal', 'cli', 'shell']
+---
+
+---
 layout: post
 title: What is the difference between a 'terminal', a 'console', a 'CLI' and a 'shell'?
 

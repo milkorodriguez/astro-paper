@@ -1,4 +1,12 @@
 ---
+title: "Titanic Dataset - Top 10 Rows"
+pubDatetime: 2020-02-18T00:00:00Z
+description: "How to retrieve and analyze the top 10 rows of the Titanic dataset."
+author: "Milko"
+tags: ['titanic', 'pandas', 'get_top']
+---
+
+---
 layout: post
 title: "Titanic_Data_2(Get the first 10 rows) "
 date: 2020-02-18 1:45:30

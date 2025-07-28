@@ -1,4 +1,12 @@
 ---
+title: "Get Top N Rows from a DataFrame"
+pubDatetime: 2020-02-22T00:00:00Z
+description: "Techniques to extract top N rows from a DataFrame using pandas."
+author: "Milko"
+tags: ['pandas', 'top', 'dataframe']
+---
+
+---
 layout: post
 title: Titanic_Data_3(Get the top N rows)
 date: 2020-02-22 07:30:00

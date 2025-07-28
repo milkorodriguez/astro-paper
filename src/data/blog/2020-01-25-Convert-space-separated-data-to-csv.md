@@ -1,4 +1,12 @@
 ---
+title: "Convert Space Separated Data to CSV"
+pubDatetime: 2020-01-25T00:00:00Z
+description: "How to convert space-separated values into proper CSV format using Python."
+author: "Milko"
+tags: ['csv', 'conversion', 'python']
+---
+
+---
 layout: post
 title: "Convert space separated data to csv with python"
 date: 2020-01-25 1:45:30
@@ -55,4 +63,3 @@ You can execute the file directly
 ```
 $ python3 makecsv.py nocommas.txt
 ```
-

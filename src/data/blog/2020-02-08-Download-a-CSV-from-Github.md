@@ -1,4 +1,12 @@
 ---
+title: "Download a CSV from GitHub"
+pubDatetime: 2020-02-08T00:00:00Z
+description: "Learn how to download and use CSV files hosted on GitHub."
+author: "Milko"
+tags: ['csv', 'github', 'download']
+---
+
+---
 layout: post
 title: "Download a CSV from Github"
 date: 2020-02-08 12:58:45
