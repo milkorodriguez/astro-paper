@@ -59,13 +59,3 @@ To David Beazley — thank you.
 
 Your clarity, humor, and craftsmanship turned a language course into a philosophy of engineering.
 
----
-
-## What’s Next
-
-This blog series captured my journey through the course.
-
-Next, I hope to apply these ideas to real-world challenges — especially in the areas of **scientific computing**, **data pipelines**, and **AI tooling**.
-
-Because once you’ve learned to think with precision, the problems become opportunities.
-
