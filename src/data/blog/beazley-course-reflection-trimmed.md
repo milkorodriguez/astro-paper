@@ -37,23 +37,3 @@ This mindset — of exploring rather than assuming — helped me see Python as a
 Sure, I had written classes in Python before. But writing a working arithmetic type from scratch — including simplification with `gcd`, comparisons, and error handling — is a different story.
 
 What struck me was how Python lets you *negotiate meaning* between objects through operator overloading. You define what it means for two things to be equal, or for one to be less than another. It’s a kind of semantics by construction.
-
----
-
-## 4. Time Spent on Fundamentals Pays Off Later
-
-Some of the early exercises seemed deceptively simple. But the real payoff was that they gave me tools — mental and practical — for understanding more complex topics like generators, coroutines, and concurrency, which Beazley covers in later parts of the course.
-
-Rather than rushing through syntax, the course invited me to slow down and understand *why* Python behaves the way it does. And that made all the difference.
-
----
-
-## Final Thoughts
-
-This course rekindled my curiosity about the Python language. More than just writing code, it made me want to **understand the language as a system** — a design space of decisions, behaviors, and hidden elegance.
-
-If you're a Python developer who wants to go beyond tutorials and frameworks, I can’t recommend David Beazley’s work enough.
-
-Next up: I’ll share technical breakdowns of some key exercises, including my own `Frac` class implementation and a deep dive into generator pipelines.
-
-Stay tuned.
