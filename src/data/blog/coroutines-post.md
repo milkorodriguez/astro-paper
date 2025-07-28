@@ -90,8 +90,4 @@ Coroutines give you a lightweight way to **react to data**, rather than just con
 
 ---
 
-## What's Next?
 
-We’ll explore how to clean up complex coroutine flows using `yield from`, which allows delegation — breaking pipelines into simpler, nested pieces.
-
-Stay tuned for **coroutine composition with yield from**.
