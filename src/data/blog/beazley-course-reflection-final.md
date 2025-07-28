@@ -1,7 +1,7 @@
 ---
 title: "I Took a Course with David Beazley. Here’s What Stuck."
 description: "Reflections on taking an advanced Python course with David Beazley — and how it reshaped my understanding of the language."
-pubDatetime: "2018-01-10T00:00:00Z"
+pubDatetime: 2018-01-10
 author: "Milko Rodríguez"
 tags: ["Python", "Concurrency", "David Beazley", "Programming Fundamentals", "Learning"]
 ---
