@@ -1,10 +1,10 @@
 export const SITE = {
-  website: "https://milkor.dev", // tu dominio real
+  website: "https://milkor.dev",
   author: "Milko Rodríguez",
-  profile: "https://milkor.dev/", // tu página personal si es otra
+  profile: "https://milkor.dev",
   desc: "Exploring AI, biology & epistemology. Bridging machine learning with science and meaning.",
   title: "@MilkoRodriguez",
-  ogImage: "/assets/milko-avatar.jpg", // asegúrate que esté en /public/assets/
+  ogImage: "/assets/milko-avatar.jpg",
   lightAndDarkMode: true,
   postPerIndex: 4,
   postPerPage: 4,
@@ -14,41 +14,13 @@ export const SITE = {
   editPost: {
     enabled: false,
     text: "Edit page",
-    url: "https://github.com/satnaing/astro-paper/edit/main/", // actualízalo si usas GitHub
+    url: "https://github.com/milkorodriguez/astro-paper/edit/main/",
   },
   dynamicOgImage: true,
   dir: "ltr",
   lang: "en",
   timezone: "America/Lima",
 } as const;
-
-export const SOCIALS = [
-  {
-    name: 'GitHub',
-    icon: 'mdi:github',
-    link: 'https://github.com/milkreator',
-  },
-  {
-    name: 'LinkedIn',
-    icon: 'mdi:linkedin',
-    link: 'https://linkedin.com/in/milkorodriguez',
-  },
-  {
-    name: 'Mail',
-    icon: 'mdi:email',
-    link: 'mailto:milko.cra@gmail.com',
-  },
-  {
-    name: 'X',
-    icon: 'mdi:twitter',
-    link: 'https://x.com/Milko_Rodriguez',
-  },
-  {
-    name: 'Blog',
-    icon: 'mdi:book-open-page-variant',
-    link: 'https://milkor.dev',
-  },
-];
 
 export const TAGS = [
   "Bioinformatics",
@@ -66,5 +38,5 @@ export const TAGS = [
   "Philosophy of Science",
   "AI & Biology",
   "Tutorials",
-  "Research Notes"
+  "Research Notes",
 ];
