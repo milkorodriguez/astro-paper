@@ -12,7 +12,7 @@ tags:
 
 # Understanding `py-dispatcher`: A Simple Priority Queue in Python
 
-In exploring old Python repositories, I came across a small but interesting project: [`py-dispatcher`](https://github.com/Milko-R/py-dispatcher). It is a minimal implementation of a dispatcher queue system that handles tasks based on priority.
+This is an interesting small project: [`py-dispatcher`](https://github.com/Milko-R/py-dispatcher). It is a minimal implementation of a dispatcher queue system that handles tasks based on priority.
 
 ## What Is It?
 
@@ -30,9 +30,9 @@ This kind of dispatcher is useful in scenarios like:
 
 The main idea is:
 
-```python
+```pythoni
 import heapq
-
+|
 class Dispatcher:
     def __init__(self):
         self.queue = []
@@ -51,16 +51,5 @@ class Dispatcher:
 2. `dispatch()` removes and returns the item with the highest priority (lowest number).
 
 This relies on Python’s `heapq` behavior, where the smallest value has the highest priority.
-
-## Improvements That Could Be Made
-
-- Adding task metadata (e.g., timestamp, ID).
-- Support for asynchronous dispatching.
-- Timeout or retry logic.
-- Logging or event hooks.
-
-## Final Thoughts
-
-Despite its simplicity, this project is a great example of clear, minimal design for a focused problem. It’s also a good base to build more robust task scheduling systems.
 
 🔗 [View on GitHub](https://github.com/Milko-R/py-dispatcher)
