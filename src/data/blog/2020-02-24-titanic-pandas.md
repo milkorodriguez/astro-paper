@@ -1,8 +1,8 @@
 ---
-title: "Getting Started with the Titanic Dataset using pandas"
-date: 2020-02-24
-description: "A beginner-friendly walkthrough using pandas to explore the Titanic dataset: loading data, slicing columns, and creating utility functions."
-tags: [python, pandas, data-analysis, titanic]
+title: Pandas Titanic Data Exploration
+description: An exploration of the Titanic dataset using pandas, including data selection and basic statistics.
+pubDatetime: 2020-02-24
+tags: ['Python', 'Pandas', 'Titanic', 'Data Science']
 ---
 
 One of the most common datasets for practicing data analysis is the Titanic passenger dataset. In this post, we’ll walk through how to load it using `pandas`, perform some basic slicing, and even define a small utility function to retrieve the top N rows of any DataFrame.
