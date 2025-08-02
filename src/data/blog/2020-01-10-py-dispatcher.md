@@ -1,6 +1,6 @@
 ---
-title: "Understanding py-dispatcher: A Simple Priority Queue in Python"
-description: "An overview of py-dispatcher, a simple Python project for managing prioritized tasks using a dispatcher pattern."
+title: "Understanding py-dispatcher"
+description: "A simple Python project for managing prioritized tasks."
 pubDatetime: 2020-01-10
 tags:
   - Python
@@ -52,4 +52,4 @@ class Dispatcher:
 
 This relies on Python’s `heapq` behavior, where the smallest value has the highest priority.
 
-🔗 [View on GitHub](https://github.com/Milko-R/py-dispatcher)
+[View on GitHub](https://github.com/Milko-R/py-dispatcher)
