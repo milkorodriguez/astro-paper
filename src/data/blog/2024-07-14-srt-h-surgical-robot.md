@@ -1,40 +1,41 @@
 ---
-title: "SRT-H: Autonomía Quirúrgica con IA da un Paso Más"
-description: "Resumen y análisis del robot quirúrgico SRT-H, guiado por lenguaje natural, desarrollado por Johns Hopkins y Stanford. Utiliza IA para realizar tareas quirúrgicas complejas sin intervención humana directa."
-pubDatetime: 2024-07-14T10:00:00.000Z
-tags:
-  - AI
-  - Robótica
-  - Cirugía
-  - LLMs
-  - Ciencia
+title: "SRT-H: A Step Forward in Autonomous Surgery with AI"
+description: "A language-guided surgical robot from Johns Hopkins and Stanford successfully performed an autonomous bile duct extraction procedure ex vivo. Here's why it matters."
+pubDatetime: 2024-07-14
+tags: ["AI", "Surgery", "Robotics", "Language Models", "Autonomy"]
 ---
 
-Un equipo de Johns Hopkins y Stanford ha desarrollado **SRT-H**, un robot guiado por lenguaje natural capaz de ejecutar subrutinas reales de colecistectomía (extracción de vesícula biliar) de manera **autónoma**, utilizando el sistema quirúrgico da Vinci.
+A team from Johns Hopkins and Stanford has developed **SRT-H**, a language-guided surgical robot capable of autonomously performing a real subtask of gallbladder removal (cholecystectomy), using the **da Vinci surgical system**.
 
-La intervención se realizó sobre tejidos reales de vesícula biliar porcina (ex vivo), sin intervenir animales vivos. En **8 de 8 pruebas**, el sistema completó la tarea sin intervención humana, cumpliendo con criterios de precisión y seguridad.
+The procedure was carried out on **real porcine bile duct tissue**, but outside the body (*ex vivo*), meaning **no live animals were used**. In all test cases (8 out of 8), the system **completed the task without human intervention**, meeting key **precision and safety** criteria.
 
-## ¿Cómo Funciona?
+---
 
-SRT-H se basa en una **arquitectura jerárquica** donde un modelo de lenguaje genera instrucciones quirúrgicas específicas como:
+## How Does It Work?
 
-- “coloca el clip en la arteria”
-- “mueve el brazo izquierdo hacia la derecha”
+SRT-H uses a **hierarchical architecture**. A **language model** generates step-by-step instructions like:
 
-Este modelo permite adaptar y corregir acciones en **tiempo real**, algo crítico en entornos quirúrgicos.
+> “Place the clip on the artery”  
+> “Move the left arm to the right”
 
-## ¿Por qué es Importante?
+This architecture allows the system to **adapt and self-correct in real time**—an essential requirement for surgical tasks.
 
-La cirugía autónoma representa un **reto mayor** para la IA, por:
+---
 
-- La **variabilidad anatómica** entre pacientes.
-- La necesidad de planificación a largo plazo.
-- Las estrictas condiciones de **seguridad clínica**.
+## Why Is This Significant?
 
-SRT-H es un gran avance, ya que demuestra que es posible automatizar procedimientos quirúrgicos con modelos de lenguaje sin comprometer la precisión.
+Surgery is one of the most complex applications for AI due to:
 
-## Próximos Pasos
+- **High anatomical variability**
+- **Need for long-term planning**
+- **Strict safety requirements**
 
-Se planea validar el sistema **en estudios in vivo**, con el objetivo de su aplicación clínica real y la democratización del acceso a cirugías seguras a nivel mundial.
+Autonomous robotic systems must handle unexpected situations with extreme reliability. SRT-H shows that **language models can now assist not only in decision-making but also in physical execution** under controlled conditions.
 
-📄 Paper y demos en video: [h-surgical-robot-transformer.github.io](https://h-surgical-robot-transformer.github.io/)
+---
+
+## What Comes Next?
+
+The next step is to **validate the system in live studies**, moving closer to **real clinical application**. The long-term goal is to **democratize access to safe surgeries** worldwide.
+
+📄 Official site and videos: [h-surgical-robot-transformer.github.io](https://h-surgical-robot-transformer.github.io/)
