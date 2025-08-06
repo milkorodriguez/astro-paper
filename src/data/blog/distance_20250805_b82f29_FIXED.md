@@ -1,3 +1,10 @@
+---
+title: "Distance and Disconnection"
+description: "A post about the metaphorical and literal senses of distance."
+pubDatetime: 2025-08-06T14:53:43.332860Z
+tags: ["reflection", "distance"]
+---
+
 # Social Distancing Simulator: See How Your Choices Change an Outbreak  
 
 **Title:** *When Pixels Teach Prevention: Why This Simulator Goes Viral*  
