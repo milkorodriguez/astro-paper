@@ -1,7 +1,7 @@
 ---
 title: "SRT-H: When Surgical Robots Finally Start Speaking Our Language"
 description: "Johns Hopkins and Stanford just pulled off something remarkable: an AI-guided surgical robot that autonomously extracted bile ducts. Here's why this changes everything."
-pubDatetime: 2024-07-14
+pubDatetime: 2025-07-14
 tags: ["AI", "Surgery", "Robotics", "Language Models", "Autonomy"]
 ---
 
