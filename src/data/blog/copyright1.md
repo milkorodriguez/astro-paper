@@ -22,5 +22,5 @@ Without action, we risk a future of:
 
 This isn’t anti-tech. It’s **pro-artist**. Let’s build AI that uplifts creators—not replaces or exploits them.
 
-📚 *Based on Charlie Sorrel’s article (Lifewire, Dec 2022)*  
+ *Based on Charlie Sorrel’s article (Lifewire, Dec 2022)*  
 
