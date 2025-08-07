@@ -3,7 +3,7 @@ title: "Decoding SRT-H: Why This Surgical Robot's Name Matters"
 description: >
   Behind Johns Hopkins' breakthrough surgical bot lies a brilliantly literal naming convention.
   Let's dissect why SRT-H isn't just random alphabet soup.
-pubDatetime:  "2024-07-17T10:00:00.000Z"
+pubDatetime: 2025-07-15
 tags:
   - "Tech Explained"
   - "Surgical Robotics"
