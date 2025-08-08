@@ -35,7 +35,7 @@ const backUrl = SITE.showBackButton ? Astro.url.pathname : "/";
         </span>
       </h1>
     ) : (
-      <h1 class="text-2xl font-semibold sm:text-3xl">{props.pageTitle}</h1>
+      <h1 class="text-xl font-semibold sm:text-2xl">{props.pageTitle}</h1>{props.pageTitle}</h1>
     )
   }
   <p class="mt-2 mb-6 italic">{props.pageDesc}</p>
@@ -52,3 +52,4 @@ const backUrl = SITE.showBackButton ? Astro.url.pathname : "/";
     }
   });
 </script>
+	
