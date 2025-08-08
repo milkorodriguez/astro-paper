@@ -1,6 +1,6 @@
 ---
 title: "About"
-layout: "../../layouts/Main.astro"
+layout: ../layouts/AboutLayout.astro
 pageTitle: ["@Milko_", "Rodríguez"]
 pageDesc: "Philosopher turned Data Scientist. Exploring AI, Bioinformatics, and Scientific Discovery."
 ---
