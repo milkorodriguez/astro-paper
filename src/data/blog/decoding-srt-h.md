@@ -10,7 +10,7 @@ tags:
   - "AI Naming"
 ------
 
-If you've read our [deep dive on how SRT-H performs actual surgeries](link-to-your-main-post-here), you’ve seen it cut, stitch, and decide—almost like a human surgeon.  
+If you've read our [deep dive on how SRT-H performs actual surgeries](https://www.milkor.dev/posts/surgical-robot), you’ve seen it cut, stitch, and decide—almost like a human surgeon.  
 But have you ever wondered what the name means?
 
 It’s not some catchy branding. **SRT-H** is a literal summary of the robot’s core technologies.
