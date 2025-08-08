@@ -5,7 +5,7 @@ pageTitle: ["@Milko_", "Rodríguez"]
 pageDesc: "Philosopher turned Data Scientist. Exploring AI, Bioinformatics, and Scientific Discovery."
 ---
 
-Hi, I’m **Milko Rodríguez** — a philosopher turned data scientist, currently pursuing a Master’s in Computer Science at **PUCP** (Lima, Peru). My background in philosophy shapes how I think about technology, ethics, and scientific knowledge.
+Hi, I’m **Milko Rodríguez** — originally trained in philosophy, now transitioning into data science. I’m currently pursuing a Master’s in Computer Science at **PUCP** (Lima, Peru). My background in philosophy shapes how I think about technology, ethics, and scientific knowledge.
 
 This blog is my digital lab notebook.
 
@@ -19,8 +19,8 @@ This blog is my digital lab notebook.
 
 ## Goals
 
-I’m building the skills to contribute to AI for science, particularly in biology and health. I believe machine learning isn’t just a tool for business — it’s a way to better understand life itself.
+I’m building the skills to contribute to AI-driven scientific discovery, particularly in biology and health. I believe machine learning isn’t just a tool for business — it’s a way to better understand life itself.
 
 ## Contact
 
-Feel free to connect with me via the social links above.
+Feel free to connect with me via the social links in the header.
