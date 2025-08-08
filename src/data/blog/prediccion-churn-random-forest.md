@@ -1,7 +1,7 @@
 ---
 title: "🧠 Predicción de Churn con Random Forest: Un Proyecto de Análisis con Impacto Económico"
 description: "Un enfoque de Data Analytics que conecta métricas técnicas con impacto económico en la predicción de churn, usando Random Forest y visualizaciones en Python."
-pubDate: 2025-08-08
+pubDate: 2025-06-15T10:00:00.000Z
 author: "Milko Rodríguez"
 tags: ["machine learning", "churn", "random forest", "data analytics", "python"]
 featured: true
