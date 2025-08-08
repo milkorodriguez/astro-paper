@@ -1,37 +1,26 @@
 ---
-layout: ../layouts/AboutLayout.astro
 title: "About"
+layout: "../../layouts/Main.astro"
+pageTitle: ["@Milko_", "Rodríguez"]
+pageDesc: "Philosopher turned Data Scientist. Exploring AI, Bioinformatics, and Scientific Discovery."
 ---
 
-AstroPaper is a minimal, accessible and SEO-friendly blog theme built with [Astro](https://astro.build/) and [Tailwind CSS](https://tailwindcss.com/).
+Hi, I’m **Milko Rodríguez** — a philosopher turned data scientist, currently pursuing a Master’s in Computer Science at **PUCP** (Lima, Peru). My background in philosophy shapes how I think about technology, ethics, and scientific knowledge.
 
-![Astro Paper](public/astropaper-og.jpg)
+This blog is my digital lab notebook.
 
-AstroPaper provides a solid foundation for blogs, or even portfolios\_ with full markdown support, built-in dark mode, and a clean layout that works out-of-the-box.
+## What I write about
 
-The blog posts in this theme also serve as guides, docs or example articles\_ making AstroPaper a flexible starting point for your next content-driven site.
+- Machine Learning and AI for the life sciences  
+- Bioinformatics tools and datasets (like UniProt, AlphaFold, ColabFold)  
+- MLOps: pipelines, reproducibility, model deployment  
+- The epistemology of scientific models — logic, probability, and learning  
+- My transition from humanities to computing  
 
-## Features
+## Goals
 
-AstroPaper comes with a set of useful features that make content publishing easy and effective:
+I’m building the skills to contribute to AI for science, particularly in biology and health. I believe machine learning isn’t just a tool for business — it’s a way to better understand life itself.
 
-- SEO-friendly
-- Fast performance
-- Light & dark mode
-- Highly customizable
-- Organizable blog posts
-- Responsive & accessible
-- Static search with [PageFind](https://pagefind.app/)
-- Automatic social image generation
+## Contact
 
-and so much more.
-
-## Show your support
-
-If you like [AstroPaper](https://github.com/satnaing/astro-paper), consider giving it a star ⭐️.
-
-Found a bug 🐛 or have an improvement ✨ in mind? Feel free to open an [issue](https://github.com/satnaing/astro-paper/issues), submit a [pull request](https://github.com/satnaing/astro-paper/pulls) or start a [discussion](https://github.com/satnaing/astro-paper/discussions).
-
-If you find this theme helpful, you can also [sponsor me on GitHub](https://github.com/sponsors/satnaing) or [buy me a coffee](https://buymeacoffee.com/satnaing) to show your support — every penny counts.
-
-Kyay zuu! 🙏🏼
+Feel free to connect with me via [GitHub](https://github.com/milkorodriguez) or [LinkedIn](https://www.linkedin.com/in/milkorodriguez/).
