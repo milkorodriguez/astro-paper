@@ -1,5 +1,5 @@
 ---
-title: "🧠 Why Is It So Hard to Apply Artificial Intelligence in Biology?"
+title: "Why Is It So Hard to Apply Artificial Intelligence in Biology?"
 description: "Exploring the 5 key challenges of applying AI to the life sciences."
 pubDatetime: 2025-07-27T10:00:00.000Z
 author: "Milko Rodríguez"
