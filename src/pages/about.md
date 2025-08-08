@@ -23,4 +23,4 @@ I’m building the skills to contribute to AI for science, particularly in biolo
 
 ## Contact
 
-Feel free to connect with me via [GitHub](https://github.com/milkorodriguez) or [LinkedIn](https://www.linkedin.com/in/milkorodriguez/).
+Feel free to connect with me via the social links above.
