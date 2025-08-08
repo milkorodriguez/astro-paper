@@ -28,7 +28,7 @@ const backUrl = SITE.showBackButton ? Astro.url.pathname : "/";
 >
   {
     "titleTransition" in props ? (
-      <h1 class="<h1 class="text-lg font-medium sm:text-xl">{props.pageTitle}</h1>"
+      <h1 class="text-lg font-medium sm:text-xl">
         {props.pageTitle[0]}
         <span transition:name={props.titleTransition}>
           {props.pageTitle[1]}
@@ -38,18 +38,18 @@ const backUrl = SITE.showBackButton ? Astro.url.pathname : "/";
       <h1 class="text-lg font-medium sm:text-xl">{props.pageTitle}</h1>
     )
   }
-  <p class="mt-2 mb-6 italic">{props.pageDesc}</p>
+  {props.pageDesc && (
+    <p class="mt-2 mb-6 italic">{props.pageDesc}</p>
+  )}
   <slot />
 </main>
 
 <script>
   document.addEventListener("astro:page-load", () => {
-    const mainContent: HTMLElement | null =
-      document.querySelector("#main-content");
+    const mainContent = document.querySelector("#main-content");
     const backUrl = mainContent?.dataset?.backurl;
     if (backUrl) {
       sessionStorage.setItem("backUrl", backUrl);
     }
   });
 </script>
-	
