@@ -69,4 +69,4 @@ This was a group project developed during the [PUCP Data Analytics program](http
 ### Source Code
 
 Repository available at:  
-🔗 [https://github.com/milkreator/pishingweb](https://github.com/milkreator/pishingweb)
+🔗 [https://github.com/milkreator/churn-prediction](https://github.com/milkreator/churn-prediction)
