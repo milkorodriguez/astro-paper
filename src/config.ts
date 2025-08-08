@@ -3,7 +3,7 @@ export const SITE = {
   author: "Milko Rodríguez",
   profile: "https://milkor.dev",
   desc: "ML + Ethics | Curious about Bioinformatics. Learning by writing. Coding what I think. @PUCP · Lima, PE",
-  title: "@MilkoRodriguez",
+  title: "",
   ogImage: "/assets/milko-avatar.jpg",
   lightAndDarkMode: true,
   postPerIndex: 4,
