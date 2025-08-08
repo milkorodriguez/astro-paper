@@ -1,6 +1,6 @@
 ---
 title: "Phishing Website Detection Using Machine Learning"
-pubDate: 2025-06-14
+pubDatetime: 2025-6-12T10:00:00.000Z
 description: "Development of a machine learning model to detect phishing websites using supervised classification techniques."
 tags: ["machine learning", "classification", "phishing detection", "security"]
 ---
