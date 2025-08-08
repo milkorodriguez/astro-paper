@@ -26,4 +26,4 @@ Today’s interest in **algorithmic governance**, **digital planning**, and **ec
 
 Medina doesn’t romanticize; she reconstructs. And in doing so, she reminds us that **another technological future was—and may still be—possible**.
 
-📚 *Medina, E. (2013).* Revolucionarios cibernéticos. Santiago: LOM Ediciones.
+ *Medina, E. (2013).* Revolucionarios cibernéticos. Santiago: LOM Ediciones.
