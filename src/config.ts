@@ -2,7 +2,7 @@ export const SITE = {
   website: "https://milkor.dev",
   author: "Milko Rodríguez",
   profile: "https://milkor.dev",
-  desc: "Exploring AI, biology & epistemology. Bridging machine learning with science and meaning.",
+  desc: "## Milko Rodríguez — ML + Epistemology | Curious about Bioinformatics. Learning by writing. Coding what I think. @PUCP · Lima, PE",
   title: "@MilkoRodriguez",
   ogImage: "/assets/milko-avatar.jpg",
   lightAndDarkMode: true,
@@ -21,22 +21,3 @@ export const SITE = {
   lang: "en",
   timezone: "America/Lima",
 } as const;
-
-export const TAGS = [
-  "Bioinformatics",
-  "Genomics",
-  "Proteomics",
-  "Systems Biology",
-  "Protein Structure Prediction",
-  "Deep Learning",
-  "ML for Science",
-  "AlphaFold",
-  "Computational Biology",
-  "Neuroscience",
-  "Foundation Models",
-  "Epistemology",
-  "Philosophy of Science",
-  "AI & Biology",
-  "Tutorials",
-  "Research Notes",
-];
