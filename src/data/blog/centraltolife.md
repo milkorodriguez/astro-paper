@@ -64,12 +64,11 @@ Crick’s “information” fits the second sense: the precise ordering of DNA b
 
 ---
 
-## The Old Question, Reopened
+## The Old Question, Revisited
 
-Biology has long sought to answer the question *What is life?* Physics and chemistry have given us matter and energy. Information may be the missing third. It is the thread that ties together blind atoms and chaotic motions into a tapestry of purpose.
+Biology has long sought to answer the question What is life? Physics and chemistry have explained the material and energetic foundations of living systems. Information could be the missing third element — the factor that organizes matter and energy into functioning biological processes.
 
-The irony is that the more we learn about molecules, the more we confront something beyond them — the patterns, codes, and meanings they carry. And perhaps, when physics, chemistry, and information finally converge, we will see not just the machinery of life, but its logic.
-
+As our knowledge of molecules grows, we increasingly encounter something that goes beyond their physical properties: the patterns, codes, and instructions they embody. When physics, chemistry, and information are integrated, we may finally gain a clearer understanding not only of life’s components, but also of the principles that govern them.
 ---
 
 **References**  
