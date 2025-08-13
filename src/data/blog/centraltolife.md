@@ -69,6 +69,7 @@ Crick’s “information” fits the second sense: the precise ordering of DNA b
 Biology has long sought to answer the question What is life? Physics and chemistry have explained the material and energetic foundations of living systems. Information could be the missing third element — the factor that organizes matter and energy into functioning biological processes.
 
 As our knowledge of molecules grows, we increasingly encounter something that goes beyond their physical properties: the patterns, codes, and instructions they embody. When physics, chemistry, and information are integrated, we may finally gain a clearer understanding not only of life’s components, but also of the principles that govern them.
+
 ---
 
 **References**  
