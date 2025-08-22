@@ -5,8 +5,6 @@ pubDatetime: 2025-08-21
 tags: ["bioinformatics", "computational biology", "IFC-UNAM", "science communication"]
 ---
 
-# 🧬 Bioinformatics without Magic: Science, Code, and Biological Meaning
-
 Bioinformatics is not magic. Even though it might seem that way, behind every result there’s a set of tools, knowledge, and people working to translate mountains of biological data into something useful and meaningful.
 
 I recently watched a seminar by Dr. César Augusto Pot Hernández from the Instituto de Fisiología Celular at UNAM ([IFC-UNAM](https://www.ifc.unam.mx)), where he clearly explained what bioinformatics *really* does in a university setting—where it’s taught, researched, shared, and used to support other scientific work.
