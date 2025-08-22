@@ -6,8 +6,8 @@ export const SITE = {
   title: "@Milko_Rodríguez",
   ogImage: "/assets/milko-avatar.jpg",
   lightAndDarkMode: true,
-  postPerIndex: 4,
-  postPerPage: 4,
+  postPerIndex: 8,
+  postPerPage: 8,
   scheduledPostMargin: 15 * 60 * 1000, // 15 minutos
   showArchives: true,
   showBackButton: true,
