@@ -2,9 +2,9 @@
 title: "Can an AI Be Conscious? A Centrist Manifesto for Careful Thinking"
 author: Milko Rodríguez
 description: Reflections inspired by Jonathan Birch on the illusion of consciousness in AI, its social implications, and the real possibility of non-human consciousness.
-date: 2025-08-28
+pubDatetime: 2025-08-28T09:00:00.000Z
 tags: [artificial intelligence, consciousness, philosophy, ethics, Jonathan Birch]
----
+------
 
 ---
 
