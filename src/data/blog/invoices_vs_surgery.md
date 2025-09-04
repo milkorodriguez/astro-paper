@@ -29,7 +29,7 @@ The answer lies in the difference between **closed, consistent environments** an
 - Variability exists (every human body is different), but it falls within **well-studied margins**.  
 - The robot provides **clear 3D visualization**, and the surgeon constantly labels and interprets what is happening.  
 
-👉 In short: the operating room is a **closed, predictable environment**, and that’s why robotic assistance can be so reliable.  
+ In short: the operating room is a **closed, predictable environment**, and that’s why robotic assistance can be so reliable.  
 
 ### In the accounting office: an open, messy world
 - Every invoice looks different: formats, abbreviations, stamps, even handwritten notes.  
@@ -37,7 +37,7 @@ The answer lies in the difference between **closed, consistent environments** an
 - Human errors, poor scans, and inconsistent data are everywhere.  
 - AI thrives on **consistent, repetitive patterns**, but here it faces **noise and heterogeneity**.  
 
-👉 That’s why errors pile up: the AI isn’t “understanding,” it’s **guessing statistical patterns**.  
+ That’s why errors pile up: the AI isn’t “understanding,” it’s **guessing statistical patterns**.  
 
 ---
 
