@@ -1,8 +1,9 @@
 ---
 title: "Why AI Fails at Invoices but Excels in Surgery"
-date: 2025-08-31
-tags: ["AI", "Automation", "Business", "Surgery", "AI Limitations"]
----
+description: "A real-world reflection on why AI struggles with messy business tasks like invoicing but succeeds in highly controlled environments such as robotic surgery"
+pubDatetime: 2025-09-04
+tags: ["AI", "automation", "business", "surgery", "AI limitations"]
+------
 
 Recently, I came across a real case that illustrates—almost ironically—the limits of artificial intelligence in everyday business.  
 
