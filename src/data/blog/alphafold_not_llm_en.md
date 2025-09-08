@@ -6,20 +6,20 @@ tags: ["AI", "biology", "AlphaFold", "LLM", "machine learning"]
 ---
 
 
-# 🚫 AlphaFold is not an LLM  
+# AlphaFold is not an LLM  
 
 **At the intersection of biology and artificial intelligence, it’s common to confuse AlphaFold with an LLM.**  
-❌ But it isn’t.  
+    But it isn’t.  
 
 ---
 
-### 🔍 Why the confusion?  
+### Why the confusion?  
 It’s true that AlphaFold uses **transformers**, the same architecture behind LLMs. But **sharing components doesn’t mean sharing purpose**.  
 Saying AlphaFold is an LLM is like saying a satellite and a microwave are the same because both use electromagnetic waves.  
 
 ---
 
-### 🧬 So, what does AlphaFold actually do?  
+###  So, what does AlphaFold actually do?  
 Imagine you have a long **necklace of beads**. At first glance, you only see the stretched chain, but you don’t know how it will fold or what shape it will take when, for example, you drop it on the table.  
 
 In biology, the same thing happens: a protein starts as a **linear sequence of amino acids**, but its true function depends on the **three-dimensional shape** it folds into. That shape can turn it into an enzyme that digests food, hemoglobin that carries oxygen, or an antibody that protects you from viruses.  
@@ -32,7 +32,7 @@ In short: **AlphaFold doesn’t write sentences, it solves the three-dimensional
 
 ---
 
-## ⚙️ What AlphaFold really does  
+## What AlphaFold really does  
 - **AlphaFold 2 (2020)** solved the historic *protein folding problem* by combining:  
   • MSA (Multiple Sequence Alignments) to leverage evolutionary information.  
   • A specialized module (*Evoformer*) to represent residue-residue relationships.  
@@ -42,11 +42,11 @@ In short: **AlphaFold doesn’t write sentences, it solves the three-dimensional
   • Replaced the structure module with a **generative diffusion model**, able to refine atomic coordinates from noise.  
   • Expanded its scope: now it predicts proteins, DNA, RNA, ligands, and ions in biological complexes.  
 
-👉 All of this is about **molecular geometry**, not language.  
+ All of this is about **molecular geometry**, not language.  
 
 ---
 
-## 📚 How it differs from an LLM  
+##  How it differs from an LLM  
 - **LLM**: Its goal is to predict the next token in a sequence of text, based on statistical probability.  
 - **AlphaFold**: Its goal is to predict the stable 3D form of biomolecules, respecting the laws of physics, chemical constraints, and evolutionary signals.  
 
@@ -54,4 +54,4 @@ Even so-called *protein language models* (like **ESMFold, ProGen, or Evo2**) are
 
 ---
 
-💡 **Conclusion**: Calling AlphaFold an LLM reduces it to a cliché. Let’s recognize it for what it truly is: **a pioneering model that solves the three-dimensional puzzle of biology**.  
+ **Conclusion**: Calling AlphaFold an LLM reduces it to a cliché. Let’s recognize it for what it truly is: **a pioneering model that solves the three-dimensional puzzle of biology**.  
