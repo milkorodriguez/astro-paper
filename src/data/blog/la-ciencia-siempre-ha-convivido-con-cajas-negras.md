@@ -8,10 +8,9 @@ ogImage: "ciencia_caja_negra.png"
 ---
 
 Cuando se critica a la inteligencia artificial, suele aparecer el mismo argumento: *"No podemos confiar en ella porque es una caja negra."* Es una objeción razonable. Si un modelo llega a una conclusión pero no somos capaces de reconstruir exactamente su razonamiento, ¿cómo aceptarlo como parte del trabajo científico?
+El físico teórico Kōji Hashimoto, de la Universidad de Kioto, tiene una respuesta para eso. En una entrevista reciente en la revista japonesa 現代化学 (Chemistry Today), lo plantea con una observación histórica simple pero incómoda — la ciencia siempre ha convivido con cajas negras. No lo dice para defender a la IA, sino para recordarnos algo que solemos olvidar sobre cómo avanza la ciencia.
 
-Lo interesante es que el Dr. Kōji Hashimoto, físico teórico de la Universidad de Kioto y entrevistado recientemente en la revista japonesa *現代化学 (Chemistry Today)*, responde a esa crítica con una observación histórica inesperada: la ciencia siempre ha convivido con cajas negras. No lo dice para defender acríticamente a la IA, sino para recordarnos cómo ha avanzado siempre la ciencia.
-
-## Newton también era una caja negra
+# Newton también era una caja negra
 
 Hoy enseñamos la segunda ley de Newton —F = ma— como si fuera una verdad completamente comprendida. Pero durante siglos no fue así. La ecuación describía con enorme precisión el movimiento de los cuerpos, permitía construir puentes, calcular órbitas y explicar la caída de una manzana. Sin embargo, nadie sabía por qué la gravedad actuaba a distancia, ni qué mecanismo físico se escondía detrás. El propio Newton evitó especular sobre eso con su famosa frase *hypotheses non fingo* —"no invento hipótesis"—, que usó en los *Principia Mathematica* (1713) para responder a quienes le preguntaban cómo era posible que la gravedad actuara a distancia sin ningún mecanismo físico visible. Su respuesta era esencialmente esta: no lo sé, y no voy a inventar una explicación que no puedo demostrar. Describo el fenómeno con precisión matemática, pero no especulo sobre su causa profunda. Era, en cierto sentido, una caja negra extraordinariamente útil.
 
