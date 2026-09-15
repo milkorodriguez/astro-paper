@@ -20,9 +20,9 @@ Sin embargo, hay otro aspecto de la Review que me parece más interesante. A med
 
 ## No todo PM2.5 es igual
 
-La primera dificultad es química. El humo de un incendio no es simplemente contaminación urbana producida lejos de la ciudad. Su composición depende de qué se quema, de cómo arde, de la temperatura de combustión y también de lo que ocurre con la pluma mientras se desplaza por la atmósfera.
+La primera dificultad es química. El humo de un incendio no es simplemente contaminación urbana producida lejos de la ciudad. Su composición depende de qué se quema, de cómo arde, de la temperatura de combustión y también de lo que ocurre con el humo mientras se desplaza por la atmósfera.
 
-La Review recoge estudios en los que el humo de incendios presenta una proporción elevada de partículas submicrónicas y una carga importante de materia orgánica, hidrocarburos aromáticos policíclicos oxigenados, quinonas, aldehídos y otros compuestos con capacidad oxidativa e inflamatoria. También importa el combustible: quemar turba no produce exactamente el mismo humo que quemar roble o eucalipto. Tampoco una combustión lenta, sin llama, produce la misma mezcla que un incendio con llama abierta. Y la composición sigue cambiando después de emitida: la pluma envejece químicamente mientras viaja.
+La Review recoge estudios en los que el humo de incendios presenta una proporción elevada de partículas submicrónicas y una carga importante de materia orgánica, hidrocarburos aromáticos policíclicos oxigenados, quinonas, aldehídos y otros compuestos con capacidad oxidativa e inflamatoria. También importa el combustible: quemar turba no produce exactamente el mismo humo que quemar roble o eucalipto. Tampoco una combustión lenta, sin llama, produce la misma mezcla que un incendio con llama abierta. Y la composición sigue cambiando después de emitida: el humo envejece químicamente mientras viaja.
 
 El problema se vuelve todavía más evidente cuando el fuego alcanza zonas urbanas. En la interfaz urbano-forestal ya no arden solamente árboles y vegetación. Arden viviendas, pinturas, plásticos, vehículos, materiales de construcción y madera tratada.
 
@@ -46,7 +46,7 @@ Esto no convierte al PM2.5 en una mala medida. Al contrario: pocas variables amb
 
 Medimos PM2.5 porque existen redes preparadas para hacerlo. Las alertas sanitarias utilizan PM2.5. Los satélites y modelos atmosféricos intentan estimarlo. Los estudios epidemiológicos lo emplean porque permite comparar poblaciones y construir series temporales.
 
-Ese éxito genera una especie de inercia metodológica. Aquello que se expresa fácilmente mediante PM2.5 entra con naturalidad en los modelos. Lo demás —la composición química de la pluma, su potencial oxidativo, la intensidad de los episodios o la exposición simultánea a gases— resulta mucho más difícil de incorporar. No porque sea necesariamente menos importante, sino porque es más difícil de medir.
+Ese éxito genera una especie de inercia metodológica. Aquello que se expresa fácilmente mediante PM2.5 entra con naturalidad en los modelos. Lo demás —la composición química de el humo, su potencial oxidativo, la intensidad de los episodios o la exposición simultánea a gases— resulta mucho más difícil de incorporar. No porque sea necesariamente menos importante, sino porque es más difícil de medir.
 
 En ese sentido, el PM2.5 es un proxy extraordinariamente exitoso. Y justamente por eso conviene recordar que sigue siendo un proxy.
 
